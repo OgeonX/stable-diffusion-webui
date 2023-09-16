@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\configs",
+    "\\extensions-builtin",
+    "\\extensions-builtin\\canvas-zoom-and-pan",
+    "\\extensions-builtin\\extra-options-section",
+    "\\extensions-builtin\\extra-options-section\\scripts",
+    "\\extensions-builtin\\LDSR",
+    "\\extensions-builtin\\ScuNET",
+    "\\extensions-builtin\\ScuNET\\scripts",
+    "\\javascript"
+  ],
+  "SelectedNode": "\\modules\\paths.py",
+  "PreviewInSolutionExplorer": false
+}
